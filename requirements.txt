@@ -1,0 +1,11 @@
+pandas~=2.2.0
+pillow~=10.2.0
+flask~=3.0.1
+pydantic[email]~=1.10.10
+matplotlib~=3.8.2
+fastapi-utils~=0.2.1
+uvicorn~=0.27.0
+python-multipart~=0.0.6
+opencv-python~=4.5.5
+pymongo==4.5.0
+motor==3.3.1
